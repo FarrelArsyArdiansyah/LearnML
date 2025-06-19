@@ -25,9 +25,9 @@ print(type(var_set))
 #3.suport all type data
 
 """4.dictionary"""
-var_dict:{
+var_dict={
 "nama":"farrel",
-"age":20;
+"age":20,
 "status":"student"}
 print(type(var_dict))
 #some rules for dict
